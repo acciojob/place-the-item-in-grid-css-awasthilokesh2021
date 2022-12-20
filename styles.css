@@ -3,11 +3,11 @@
     grid-gap: 10px 15px;
   
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2,200px, 1fr);
+    grid-template-rows: repeat(2,1fr);
   }
 .item{
     background-color: blueviolet;
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
 }
   
