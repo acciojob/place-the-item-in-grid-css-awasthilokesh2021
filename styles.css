@@ -1,13 +1,14 @@
 .holder {
     display: grid;
     grid-gap: 10px 15px;
-  
+    height:200px;
+    width:200px;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2,1fr);
   }
 .item{
     background-color: blueviolet;
-    height: 200px;
-    width: 200px;
+    height:200px;
+    width:200px;
 }
   
